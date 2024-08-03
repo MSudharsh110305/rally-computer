@@ -4,8 +4,8 @@
 This project is part of the BLUEBAND SPORTS initiative to develop a real-time tracking system for rally cars. The system includes features like SOS and OK interrupt buttons, providing safety and monitoring capabilities during rallies. This repository focuses on the hardware and software integration using the Maduino-Zero-LTE-SIM 7600E.
 
 ## Team Members
-- [Sudharsh](https://github.com/yourusername) - CSE - Hardware and Software Integration
-- [Tharun](https://github.com/theirusername) - CSE - Hardware and Software Integration
+- [Sudharsh](https://github.com/MSudharsh110305) - CSE - Hardware and Software Integration
+- [Tharun](https://github.com/THARUNSARO) - CSE - Hardware and Software Integration
 - [Akaash](https://github.com/theirusername) - ECE - Hardware
 - [Methun](https://github.com/theirusername) - ECE - Hardware
 - [Naresh Ram](https://github.com/Nareshram1) - IT - Server-side code and integration.
