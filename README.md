@@ -30,7 +30,7 @@ This project is part of the BLUEBAND SPORTS initiative to develop a real-time tr
 ### Setup
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/MSudharsh110305/rally-car-tracking.git
+    git clone https://github.com/MSudharsh110305/rally-computer.git
     ```
 2. Open the `real_time_tracking.ino` file in Arduino IDE.
 3. Connect your Maduino-Zero-4G-LTE-SIM 7600E to your computer.
